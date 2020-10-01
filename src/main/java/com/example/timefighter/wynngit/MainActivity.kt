@@ -26,3 +26,7 @@ fun Archer() {
 
 }
 
+fun Warrior() {
+
+}
+
