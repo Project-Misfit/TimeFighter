@@ -17,3 +17,8 @@ fun Shaman() {
 fun Assassin() {
 
 }
+
+fun Mage() {
+
+}
+
