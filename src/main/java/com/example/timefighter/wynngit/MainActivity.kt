@@ -22,3 +22,7 @@ fun Mage() {
 
 }
 
+fun Archer() {
+
+}
+
