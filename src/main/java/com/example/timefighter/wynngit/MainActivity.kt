@@ -17,16 +17,3 @@ fun Shaman() {
 fun Assassin() {
 
 }
-
-fun Mage() {
-
-}
-
-fun Archer() {
-
-}
-
-fun Warrior() {
-
-}
-
